@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+pyspellchecker
+requests
